@@ -7,9 +7,7 @@ This project was created to learn how to build APIs and integrate a backend with
 
 ## Features
 - Get random quotes instantly  
-- Filter by category  
-- FastAPI backend + React frontend  
-- Styled with Tailwind CSS  
+- Filter by category 
 
 ---
 
