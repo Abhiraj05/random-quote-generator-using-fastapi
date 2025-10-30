@@ -28,3 +28,8 @@ cd frontend
 npm install -r requirements.txt
 npm run dev
 ```
+
+### Screenshots
+![alt text](screenshots/screencapture-localhost-5173-2025-10-30-23_28_52.png)
+
+![alt text](screenshots/screencapture-localhost-5173-2025-10-30-23_29_27.png)
