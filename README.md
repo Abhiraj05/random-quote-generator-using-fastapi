@@ -1,7 +1,7 @@
 # Random Quote Generator
 
 A simple **Random Quote Generator** built with **FastAPI**, **React**, and **Tailwind CSS**.  
-The goal of this project was to learn how to build API and connect a backend with a frontend.
+This project was created to learn how to build APIs and integrate a backend with a frontend.
 
 ---
 
