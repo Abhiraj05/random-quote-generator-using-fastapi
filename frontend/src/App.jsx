@@ -4,7 +4,7 @@ import image from "./assets/quotes.png";
 import axios from "axios";
 
 function App() {
-  const [quote, setQuote] = useState("Get a Random Quote...");
+  const [quote, setQuote] = useState("Random Quote Generator....");
   const [author, setAuthor] = useState("n/a");
   const [category, setCategory] = useState(null);
  
@@ -32,7 +32,7 @@ function App() {
   return (
     <>
       <main className="flex justify-center items-center min-h-screen">
-        <div className="mx-7 md:mx-141">
+        <div className="mx-7 md:mx-142">
           <div className="bg-black  border-gray-700 border rounded-4xl">
             <div className=" border-gray-700 border px-10 py-10 shadow-gray-800 shadow-xl rounded-4xl ">
               <div className="flex justify-start items-start">
