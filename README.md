@@ -25,6 +25,7 @@ uvicorn main:app --reload
 ### Frontend (React)
 ```bash
 cd frontend
+npm install
 npm install -r requirements.txt
 npm run dev
 ```
